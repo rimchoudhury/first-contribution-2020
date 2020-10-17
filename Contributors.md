@@ -14,6 +14,7 @@
 - Tanishq Sehra | [Tanishq Sehra Github Account](https://github.com/tanishq1502)
 - Reo Correia | [Reo Correia Github Account](https://github.com/ReoCorreia)
 - Sneha Mehta | [Sneha Mehta Github Account](https://github.com/sneha-mehta)
+- Madhurima Choudhury | [Madhurima Choudhury Github Account](https://github.com/rimchoudhury)
 - Barbarosa
 - Aditya Tandon
 - Anurag Jain
